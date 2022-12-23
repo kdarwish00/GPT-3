@@ -29,7 +29,7 @@ The website should now be running on your local development server at `http://lo
 
 To deploy the website to a live server, you can use a tool like [Zeit Now](https://zeit.co/now). Simply run the following command in the project directory:
 
-now
+`now`
 
 This will build and deploy the website to a live URL that you can share with others.
 
